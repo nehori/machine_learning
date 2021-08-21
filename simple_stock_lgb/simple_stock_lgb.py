@@ -23,7 +23,7 @@ from nehori import tilib
 # /c/Python38/Scripts/pip install pandas-profiling
 # https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib
 # [Run]
-# /c/Python38/python new2021.py
+# /c/Python38/python simple_stock_lgb.py
 
 @contextmanager
 def timer(title):
